@@ -7,7 +7,8 @@ This project consists of creating the fire animation of the Doom game, released 
   <img src="https://github.com/LuccasHenrique13/Doom-fireAlgorithm/blob/main/DoomFire.gif">
 </div>
 
-# Here is a detailed explanation:
+
+Here is a detailed explanation:
 
 ## Variable Initialization
 
