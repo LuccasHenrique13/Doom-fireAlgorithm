@@ -1,5 +1,5 @@
 # Project Doom Fire Algorithm
-This project is a project presented on the YouTube channel of Felipe dechamps reference: https://www.youtube.com/watch?v=HCjDjsHPOco
+This project is a project presented on the YouTube channel of Felipe deschamps reference: https://www.youtube.com/watch?v=HCjDjsHPOco
 
 online viewer: https://doomfirealgorithm.netlify.app
 
